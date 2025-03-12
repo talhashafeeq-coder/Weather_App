@@ -20,13 +20,21 @@ OpenWeather API<br>
 ## 🛠️ Installation & Setup<br>
 
 ### Clone the repository:<br>
-https://github.com/talhashafeeq-coder/Weather-App.git <br>
+ ```sh
+https://github.com/talhashafeeq-coder/Weather-App.git 
+  ```
 Navigate to the project directory:<br>
+ ```sh
 cd Weather-App
+  ```
 ### Install dependencies:<br>
+ ```sh
 npm i
+  ```
 ### Run the project:
+ ```sh
 npm run dev
+  ```
 ## 🤝 Contributing
 Feel free to submit pull requests or open issues for improvements!
 
